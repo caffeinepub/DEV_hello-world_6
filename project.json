@@ -1,0 +1,17 @@
+{
+  "overview": "A minimal Hello World web app with a clean, centered greeting page.",
+  "features": [
+    "Clean Hello, World! greeting",
+    "Centered hero layout",
+    "Responsive design",
+    "Dark mode support"
+  ],
+  "category": "showcase",
+  "tags": [
+    "hello-world",
+    "minimal",
+    "greeting",
+    "simple"
+  ],
+  "last_updated": "2026-05-15T15:12:27.023Z"
+}
